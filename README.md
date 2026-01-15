@@ -6,3 +6,7 @@
 
 **By** joaostack & <a href="https://github.com/0xreip" target="_blank">0xreip</a>\
 *Translations by 0xreip*
+
+## Tutorials
+- [Redmi A5 Rooting & Bootloader unlock (PT)](https://github.com/joaostack/Android-Hacking/blob/main/Exploiting_Unisoc_RedmiA5.md)
+- [Redmi A5 Rooting & Bootloader unlock (EN)](https://github.com/joaostack/Android-Hacking/blob/main/Exploiting_Unisoc_RedmiA5%20%5BEN%5D.md)
