@@ -4,5 +4,5 @@
 
 ## Android-Hacking
 
-**By** joaostack & 0xreip  
+**By** joaostack & <a href="https://github.com/0xreip" target="_blank">0xreip</a>\
 *Translations by 0xreip*
